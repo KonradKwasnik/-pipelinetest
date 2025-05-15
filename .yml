@@ -2,7 +2,7 @@
 //trigger: none  # Run manually
 
 //pool:
-  vmImage: 'ubuntu-latest'
+ // vmImage: 'ubuntu-latest'
 
 steps:
 - task: AzureAppServiceSettings@1
