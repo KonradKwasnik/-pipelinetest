@@ -1,7 +1,7 @@
 
-trigger: none  # Run manually
+//trigger: none  # Run manually
 
-pool:
+//pool:
   vmImage: 'ubuntu-latest'
 
 steps:
